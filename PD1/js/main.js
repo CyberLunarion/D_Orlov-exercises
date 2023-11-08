@@ -1,0 +1,1 @@
+document.getElementById("jsGreeting").innerHTML="I'm JavaScript!";
