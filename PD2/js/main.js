@@ -1,0 +1,1 @@
+document.getElementById("jsExternal").innerHTML="I'm external JavaScript!";
